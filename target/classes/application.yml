@@ -1,0 +1,7 @@
+spring:
+  application:
+          name: media-finder-service
+Discogs:
+  consumerKey: FJCGAwGzzotZqPbtkaaE
+  secret: VZGuhOkjckwaXJJeozjaCHGQMagoyEQP
+
